@@ -1,0 +1,56 @@
+body{
+
+text-align: center;
+justify-content: center;
+margin-top: 5%;
+width: 60%;
+margin-left: 20%;
+
+
+}
+
+.item{
+
+background-color:  #735DA5;
+color:black;
+padding: 20px;
+/* gap: 5erm; */
+
+
+
+}
+
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding: 5px 10px;
+    background-color:  #D3C5E5;
+    border: 1px solid #0f0f0f;
+  }
+
+
+
+
+deleteeditbutton{
+
+    float: right;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
